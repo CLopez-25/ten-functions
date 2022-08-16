@@ -22,6 +22,6 @@
  */
 
 
-function isTrue(x){
-
+function isTrue(input){
+    return input === true;
 }
